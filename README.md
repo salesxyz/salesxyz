@@ -66,7 +66,7 @@ Focado em projetos de web, atualmente estudando java e kali linux, possuo certa 
 
 <hr>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=salesxyz&layout=compact&theme=dracula"/> 
   <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api?username=salesxyz&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
