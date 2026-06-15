@@ -3,7 +3,8 @@
 **`Fullstack Develloper`**
 <br>
 
-Focado em projetos de web, atualmente estudando java e kali linux, possuo certa facilidade com banco de dados. 
+Focado em projetos de web, atualmente estudando java e kali linux
+Preferência em banco de dados.
 
 <br>
 
