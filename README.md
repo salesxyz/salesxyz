@@ -5,7 +5,7 @@
 
 Focado em projetos de web, atualmente estudando java e kali linux
 Preferência em banco de dados.
-
+Certificados em Python
 <br>
 
 
