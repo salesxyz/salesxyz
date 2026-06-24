@@ -2,9 +2,9 @@
 
 **`Fullstack Develloper`**
 <br>
-
-Focado em projetos de web, atualmente estudando java e kali linux
-Preferência em banco de dados.
+Backend Develloper, estudando novas linguagens e se aprofundando em cybersegurança
+<br>
+<br>
 Certificados em Python
 <br>
 
